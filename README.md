@@ -1,4 +1,4 @@
-#                             Relational database management systems (RDBMSs)
+#                             Relational Database Management Systems (RDBMSs)
 
                                        Introduction to RDBMS
                                       
